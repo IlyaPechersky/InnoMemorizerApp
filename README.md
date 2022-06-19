@@ -12,4 +12,7 @@ There are two main pages in the application:
 
 You can add text either by copying or by downloading it directly as a pdf file.
 
+Тут картинка
+
+
 
