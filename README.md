@@ -19,3 +19,4 @@ At the same time, you have the opportunity to move from one to one using the but
 
 Тут еще картинка
 
+At the moment, these semantic units are visible only on the screen, but in the future it will also be possible to listen to them using voice playback.
