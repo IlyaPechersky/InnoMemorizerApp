@@ -14,5 +14,7 @@ You can add text either by copying or by downloading it directly as a pdf file.
 
 Тут картинка
 
+Then the text is loaded and parsed by semantic units so that you have the opportunity to memorize the text in parts.
+
 
 
